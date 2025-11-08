@@ -1,0 +1,16 @@
+@font-face {
+	font-family: 'Borda';
+	src: url('Borda.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'BordaBold';
+	src: url('BordaBold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Borda Bold Italic';
+	src: url('Borda Bold Italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Borda Italic';
+	src: url('Borda Italic.ttf') format('truetype');
+}
